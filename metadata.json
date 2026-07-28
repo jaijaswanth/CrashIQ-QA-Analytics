@@ -1,0 +1,6 @@
+{
+  "name": "CrashLens - Mobile App Crash Analytics & Testing Platform",
+  "description": "A QA platform that collects, analyzes, and predicts mobile application crashes using SQL analytics, C++ DSA log processing, software testing suites, and Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
